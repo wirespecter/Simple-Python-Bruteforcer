@@ -1,4 +1,4 @@
-Simple PythonBruteforcer
+Simple Python Bruteforcer
 =========================
 
 A very simple and basic web form bruteforcer coded in python.
